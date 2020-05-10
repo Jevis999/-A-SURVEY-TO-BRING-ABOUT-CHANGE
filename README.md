@@ -1,1 +1,2 @@
-# -A-SURVEY-TO-BRING-ABOUT-CHANGE
+# synchronousBallMovement
+Ball moving synchronously
